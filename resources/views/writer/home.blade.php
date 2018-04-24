@@ -1,0 +1,1 @@
+@extends('writer/includes/base')

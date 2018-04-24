@@ -1,0 +1,12 @@
+<div class='sprite icon1'></div>
+<div class='sprite icon2'></div>
+<div class='sprite icon3'></div>
+<div class='sprite icon4'></div>
+<div class='sprite icon5'></div>
+//css
+.sprite { background: url('sprite.png') no-repeat top left; width: 22px; height: 19px;  } 
+.sprite.icon1 { background-position: 0 0; height: 16px; } 
+.sprite.icon2 { background-position: -32px 0; height: 14px; } 
+.sprite.icon3 { background-position: -64px 0; height: 17px; } 
+.sprite.icon4 { background-position: -96px 0; } 
+.sprite.icon5 { background-position: -128px 0; width: 17px; } 
